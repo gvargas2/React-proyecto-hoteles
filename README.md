@@ -1,2 +1,1 @@
-# React proyecto "hoteles"
- 
+# Proyecto "Hoteles"
